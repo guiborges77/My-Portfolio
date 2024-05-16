@@ -11,11 +11,11 @@ Se preferir, você pode clonar este repositório e executá-lo localmente:
 1. Clone o repositório:
    
    ```bash
-   git clone https://github.com/seu-usuario/portfolio-pessoal.git
+   git clone https://github.com/guiborges77/My-Portfolio.git
 
 2. Navegue até o diretório do projeto:
     ```bash
-   cd portfolio-pessoal
+   cd My-Portfolio
 3. Instale as dependências (se aplicável):
    ```bash
    npm install
